@@ -1,0 +1,6 @@
+there are
+6
+
+lines in 
+
+this text file
